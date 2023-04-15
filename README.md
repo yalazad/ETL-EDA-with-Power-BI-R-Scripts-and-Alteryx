@@ -5,5 +5,5 @@ Extensive Coursera course on tools for Data Analysis exploring the following:
  3) R and RStudio, a popular coding language and code development environment that is relatively easy to use and was created to do analytics and statistical analyses.
  4) Alteryx, another popular low coding business analytics and intelligence tool that focuses on automation and replicability.
  
- The subject matter for the data analysis is a fictional gas station/convenience store called Teca which branches across the southern US.
+ The subject matter for the data analysis is a fictional gas station/convenience store called Teca with branches across the southern US.
  
